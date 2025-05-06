@@ -43,6 +43,7 @@ PassTrack is a smart passenger communication system for Volcano Express, offerin
 
 #### [ClarityIQ](https://github.com/nshutifabrice09/ClarityIQ)
 ClarityIQ is an intelligent software solution designed to provide comprehensive business clarity analysis for Mayfair Corporation. This platform leverages advanced analytics, data visualization, and predictive modeling capabilities to offer deep insights into various aspects of the organization's operations, performance, and strategy execution.
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -77,7 +78,7 @@ A system that connects people in distress with emergency services (ambulance, po
 I'm always open to backend development collaborations, system administration challenges, and open-source contributions. Let's connect!
 
 - 📧 Email: nshuti.fabrice09@gmail.com  
-- 🔗 LinkedIn: [Mucyo Kevin](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)  
+- 🔗 LinkedIn: [Niyonzima Nshuti Fabrice](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)  
 - 
 
 ---
