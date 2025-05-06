@@ -80,7 +80,6 @@ I'm always open to backend development collaborations, system administration cha
 
 - 📧 Email: nshuti.fabrice09@gmail.com  
 - 🔗 LinkedIn: [Niyonzima Nshuti Fabrice](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)  
-- 
 
 ---
 
