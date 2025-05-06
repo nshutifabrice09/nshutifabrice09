@@ -70,7 +70,7 @@ A system that connects people in distress with emergency services (ambulance, po
 
 ### 📈 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshutifabrice09&layout=compact&theme=tokyonight&langs_count=5&hide=python,css,html,c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshutifabrice09&layout=compact&theme=tokyonight&hide=python,html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
