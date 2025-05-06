@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Backend Developer | 🐧 Linux Administrator | ☁️ Cloud & DevOps Enthusiast
 
-I'm a passionate backend developer and systems administrator based in *Kigali, Rwanda*, with a strong foundation in building robust APIs, managing server infrastructure, and automating workflows using modern DevOps tools. I specialize in **Spring Boot, RESTful APIs, database design, Linux systems, and containerized deployments**.
+I'm a passionate backend developer and systems administrator based in *Kigali, Rwanda*, with a strong foundation in building robust APIs, managing server infrastructure, and automating workflows using modern DevOps tools. I specialize in **Spring Boot, RESTful APIs, Database design, Linux systems, and Containerized deployments**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nshuti.fabrice09@gmail.com)
