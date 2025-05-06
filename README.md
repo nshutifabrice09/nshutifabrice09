@@ -27,8 +27,9 @@ I'm a passionate backend developer and systems administrator based in *Kigali, R
 
 
 **Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+
 
 ---
 
@@ -61,8 +62,8 @@ A system that connects people in distress with emergency services (ambulance, po
 
 - **B.Sc. Information Technology** – Adventist University of Central Africa (2024)
 - **JavaScript and Data Structures certification** – 2025  
-- **Advanced Network Operations 2.0** – 2025  
-- **Introduction to Network Operations** – 2025  
+- **Advanced Network Operations 2.0** – 2024  
+- **Introduction to Network Operations** – 2022  
 - **Linux Essentials Certificate** – 2022  
 
 ---
