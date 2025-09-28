@@ -13,6 +13,7 @@ I'm a passionate backend developer and systems administrator based in *Kigali, R
 
 **Languages & Tools:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,6 +29,7 @@ I'm a passionate backend developer and systems administrator based in *Kigali, R
 
 **Cloud:**  
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
+
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
 
 
@@ -68,10 +70,16 @@ A system that connects people in distress with emergency services (ambulance, po
 
 ---
 
-### 📈 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nshutifabrice09&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nshutifabrice09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nshutifabrice09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshutifabrice09&layout=compact&theme=tokyonight&hide=python,html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nshutifabrice09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=nshutifabrice09&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ### 📫 Connect With Me
