@@ -15,10 +15,11 @@ I'm a passionate backend developer and systems administrator based in *Kigali, R
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 **DevOps & Sysadmin:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -28,11 +29,10 @@ I'm a passionate backend developer and systems administrator based in *Kigali, R
 
 
 **Cloud:**  
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-
-
 ---
 
 ### 🚀 Featured Projects
@@ -40,8 +40,8 @@ I'm a passionate backend developer and systems administrator based in *Kigali, R
 #### [Pass track system](https://github.com/nshutifabrice09/Pass-track-system-dev-Spring-boot)
 PassTrack is a smart passenger communication system for Volcano Express, offering real-time updates, service alerts, and route details via digital signage, mobile apps, and service channels for a seamless travel experience.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-336791?style=flat&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 #### [ClarityIQ](https://github.com/nshutifabrice09/ClarityIQ)
@@ -63,6 +63,8 @@ A system that connects people in distress with emergency services (ambulance, po
 ### 📚 Education & Certifications
 
 - **B.Sc. Information Technology** – Adventist University of Central Africa (2024)
+- **Back End Development and APIs** - 2025
+- **Information Security** - 2025
 - **JavaScript and Data Structures certification** – 2025  
 - **Advanced Network Operations 2.0** – 2024  
 - **Introduction to Network Operations** – 2022  
@@ -80,15 +82,5 @@ A system that connects people in distress with emergency services (ambulance, po
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nshutifabrice09&icon=0&color=0)](https://visitcount.itsvg.in)
----
-
-### 📫 Connect With Me
-
-I'm always open to backend development collaborations, system administration challenges, and open-source contributions. Let's connect!
-
-- 📧 Email: nshuti.fabrice09@gmail.com  
-- 🔗 LinkedIn: [Niyonzima Nshuti Fabrice](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)  
-
----
 
 ![Profile views](https://komarev.com/ghpvc/?username=nshutifabrice09&color=brightgreen)
