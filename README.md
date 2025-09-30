@@ -2,7 +2,7 @@
 
 ## 💻 Backend Developer | 🐧 Linux Administrator | ☁️ Cloud & DevOps Enthusiast
 
-II’m a passionate Backend Developer and Systems Administrator based in Kigali, Rwanda. I have a strong track record of designing and building robust APIs, managing scalable server infrastructure, and automating workflows using modern DevOps practices.
+I’m a passionate Backend Developer and Systems Administrator based in Kigali, Rwanda. I have a strong track record of designing and building robust APIs, managing scalable server infrastructure, and automating workflows using modern DevOps practices.
 
 My expertise spans Spring Boot, RESTful APIs, database design, Linux systems, and containerized deployments, enabling me to deliver reliable, high-performance backend solutions. I thrive in environments where I can combine software development and infrastructure management to create seamless, automated, and efficient systems.
 
