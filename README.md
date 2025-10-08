@@ -87,6 +87,3 @@ A system that connects people in distress with emergency services (ambulance, po
 ![](https://github-contributor-stats.vercel.app/api?username=nshutifabrice09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nshutifabrice09&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Profile views](https://komarev.com/ghpvc/?username=nshutifabrice09&color=brightgreen)
