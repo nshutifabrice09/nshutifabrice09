@@ -68,13 +68,13 @@ A system that connects people in distress with emergency services (ambulance, po
 
 ### 📚 Education & Certifications
 
-- **B.Sc. Information Technology** – Adventist University of Central Africa (2024)
-- **Back End Development and APIs** - 2025
-- **Information Security** - 2025
-- **JavaScript and Data Structures certification** – 2025  
-- **Advanced Network Operations 2.0** – 2024  
-- **Introduction to Network Operations** – 2022  
-- **Linux Essentials Certificate** – 2022  
+- **B.Sc. Information Technology** – Adventist University of Central Africa 
+- **Back End Development and APIs** 
+- **Information Security** 
+- **JavaScript and Data Structures certification** 
+- **Advanced Network Operations 2.0** 
+- **Introduction to Network Operations**
+- **Linux Essentials Certificate**   
 
 ---
 
