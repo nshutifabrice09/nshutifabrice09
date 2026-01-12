@@ -88,7 +88,3 @@ A system that connects people in distress with emergency services (ambulance, po
 ![](https://nirzak-streak-stats.vercel.app/?user=nshutifabrice09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nshutifabrice09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nshutifabrice09&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
