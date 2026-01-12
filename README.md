@@ -45,13 +45,17 @@ I specialize in Spring Boot, RESTful API development, database architecture, Lin
 PassTrack is a smart passenger communication system for Volcano Express, offering real-time updates, service alerts, and route details via digital signage, mobile apps, and service channels for a seamless travel experience.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&logoWidth=40)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&logoWidth=40)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&logoWidth=40)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white&logoWidth=40)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoWidth=40)
 
 #### [ClarityIQ](https://github.com/nshutifabrice09/ClarityIQ)
 ClarityIQ is an intelligent software solution designed to provide comprehensive business clarity analysis for Mayfair Corporation. This platform leverages advanced analytics, data visualization, and predictive modeling capabilities to offer deep insights into various aspects of the organization's operations, performance, and strategy execution.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoWidth=40)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white&logoWidth=40)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&logoWidth=40)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=40)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=40)
 
@@ -59,6 +63,7 @@ ClarityIQ is an intelligent software solution designed to provide comprehensive 
 A system that connects people in distress with emergency services (ambulance, police, fire department).
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&logoWidth=40)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&logoWidth=40)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&logoWidth=40)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&logoWidth=40)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoWidth=40)
