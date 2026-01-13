@@ -74,9 +74,10 @@ A system that connects people in distress with emergency services (ambulance, po
 ### 📚 Education & Certifications
 
 - **B.Sc. Information Technology** – Adventist University of Central Africa 
-- **Back End Development and APIs** 
+- **Back End Development and APIs**
+- **Data Analysis wuht Python** 
 - **Information Security** 
-- **JavaScript and Data Structures certification** 
+- **JavaScript and Data Structures** 
 - **Advanced Network Operations 2.0** 
 - **Introduction to Network Operations**
 - **Linux Essentials Certificate**   
