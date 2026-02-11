@@ -1,6 +1,6 @@
 # Hi 👋🏾  I'm **Niyonzima Nshuti Fabrice**
 
-## 💻 Backend Developer | 🐧 Linux Administrator | ☁️ Cloud & DevOps Engineer
+## 💻 Backend Developer | ☁️ Cloud & DevOps Engineer | 🐧 Linux Administrator
 
 I'm a dedicated Backend Developer and Systems Administrator based in Kigali, Rwanda, with a proven track record in building reliable APIs, managing scalable server infrastructure, and streamlining operations through modern DevOps practices.
 
