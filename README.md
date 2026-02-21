@@ -34,11 +34,13 @@ I specialize in Spring Boot, RESTful API development, database architecture, Lin
 
 **Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white&logoWidth=40)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white&logoWidth=40)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white&logoWidth=40)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white&logoWidth=40)
----
-
+**---
+**
 ### 🚀 Featured Projects
 
 #### [Pass track system](https://github.com/nshutifabrice09/Pass-track-system-dev-Spring-boot)
