@@ -6,6 +6,7 @@ I'm a dedicated Backend Developer and Systems Administrator based in Kigali, Rwa
 
 I specialize in Spring Boot, RESTful API development, database architecture, Linux systems, and containerized deployments. My work bridges the gap between software engineering and infrastructure, allowing me to create automated, high-performance systems that are both efficient and resilient.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-pumj5kk9s-nshuti-fabrices-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=40)](mailto:nshuti.fabrice09@gmail.com)
 
@@ -39,6 +40,7 @@ I specialize in Spring Boot, RESTful API development, database architecture, Lin
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white&logoWidth=40)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white&logoWidth=40)
+
 ---
 
 ### 🚀 Featured Projects
@@ -77,9 +79,9 @@ A system that connects people in distress with emergency services (ambulance, po
 
 - **B.Sc. Information Technology** – Adventist University of Central Africa 
 - **Back End Development and APIs**
-- **Data Analysis wuht Python** 
+- **Data Analysis with Python** 
 - **Information Security** 
 - **JavaScript and Data Structures** 
 - **Advanced Network Operations 2.0** 
 - **Introduction to Network Operations**
-- **Linux Essentials Certificate**   
+- **Linux Essentials Certificate**
