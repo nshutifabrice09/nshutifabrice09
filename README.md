@@ -6,7 +6,7 @@ I'm a dedicated Backend Developer and Systems Administrator based in Kigali, Rwa
 
 I specialize in Spring Boot, RESTful API development, database architecture, Linux systems, and containerized deployments. My work bridges the gap between software engineering and infrastructure, allowing me to create automated, high-performance systems that are both efficient and resilient.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](portfolio-six-theta-49.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-pumj5kk9s-nshuti-fabrices-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=40)](mailto:nshuti.fabrice09@gmail.com)
 
