@@ -2,7 +2,7 @@
 
 ## 💻 Backend Developer | ☁️ Cloud & DevOps Engineer | 🐧 Linux Administrator
 
-I'm a DevOps Engineer with 4+ years of full-stack development experience, based in Kigali, Rwanda. I specialize in bridging the gap between development and operations—building applications end-to-end while automating infrastructure, orchestrating deployments, and creating systems that scale.
+I'm a DevOps Engineer with 4+ years of full-stack development experience, based in Kigali, Rwanda. I specialize in bridging the gap between development and operations building applications end-to-end while automating infrastructure, orchestrating deployments, and creating systems that scale.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-pumj5kk9s-nshuti-fabrices-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/niyonzima-nshuti-fabrice-876a73250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=40)](mailto:nshuti.fabrice09@gmail.com)
