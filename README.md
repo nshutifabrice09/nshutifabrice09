@@ -25,7 +25,10 @@ I'm a DevOps Engineer with 4+ years of full-stack development experience, based 
 
 
 **DevOps & Sysadmin:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&logoWidth=40)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white&logoWidth=40)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=40)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&logoWidth=40)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white&logoWidth=40)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoWidth=40)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&logoWidth=40)
 ![Apache](https://img.shields.io/badge/Apache-CA2137?style=flat-square&logo=apache&logoColor=white&logoWidth=40)
